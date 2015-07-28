@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Beccus.github.io
+title: Beccus
+paginate: 10
